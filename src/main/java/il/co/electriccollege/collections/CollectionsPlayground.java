@@ -15,6 +15,7 @@ public class CollectionsPlayground {
         ArrayList<String> stringList = new ArrayList<String>();
         stringList.add("hello");
         stringList.add("world");
+        stringList.add("how are you");
 
         // the values of the list are accessible by index
         System.out.println("List member 0: " + stringList.get(0));
