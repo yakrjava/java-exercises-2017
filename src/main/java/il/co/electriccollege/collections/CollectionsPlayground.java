@@ -13,7 +13,7 @@ public class CollectionsPlayground {
     public static void main(String[] args) {
         System.out.println("Start list collection");
         ArrayList<String> stringList = new ArrayList<String>();
-        stringList.add("hello");
+        stringList.add("hello aaa");
         stringList.add("world");
 
         // the values of the list are accessible by index
